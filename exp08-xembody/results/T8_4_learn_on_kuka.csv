@@ -1,0 +1,5 @@
+Robot,Expert on this robot (%),Joint-space policy, trained on KUKA (%),Task-space policy, trained on KUKA (%)
+KUKA LBR iiwa 7,100,46,100
+Franka Panda,100,0,100
+UR5,100,0,100
+Compact 5-DOF arm,76,0,64

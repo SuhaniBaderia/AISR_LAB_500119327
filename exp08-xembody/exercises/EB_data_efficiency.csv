@@ -1,0 +1,7 @@
+KUKA demos,training samples,KUKA LBR iiwa 7 success %,Franka Panda success %,UR5 success %,Compact 5-DOF arm success %
+5,202,0,0,0,0
+10,420,10,10,8,8
+25,995,78,78,78,50
+50,2039,94,94,94,60
+100,4084,100,100,100,66
+150,6032,100,100,100,64

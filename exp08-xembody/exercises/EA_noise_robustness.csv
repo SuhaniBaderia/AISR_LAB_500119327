@@ -1,0 +1,6 @@
+noise sigma (cm),KUKA LBR iiwa 7 success %,Franka Panda success %,UR5 success %,Compact 5-DOF arm success %
+0.0,100.0,100.0,100.0,64.0
+0.2,100.0,100.0,100.0,68.0
+0.5,100.0,100.0,100.0,72.0
+1.0,100.0,100.0,100.0,74.0
+2.0,74.0,74.0,74.0,56.0

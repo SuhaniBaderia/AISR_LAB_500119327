@@ -1,0 +1,5 @@
+Robot,DOF,Kinematics,Shoulder height (m),Max reach from shoulder (m),Task region reachable (%),Home joint angles (rad)
+KUKA LBR iiwa 7,7,classic DH,0.340,1.026,100,+0.00 +0.19 +0.00 -1.79 +0.00 +1.35 +0.00
+Franka Panda,7,Craig DH,0.333,0.947,100,+0.00 -0.32 +0.00 -2.32 +0.00 +1.77 +0.79
+UR5,6,classic DH,0.089,1.029,100,+2.92 -1.72 +1.63 -1.31 -1.68 -0.00
+Compact 5-DOF arm,5,classic DH,0.110,0.660,78,-0.00 +1.11 -0.46 -0.06 -0.00

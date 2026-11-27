@@ -1,0 +1,5 @@
+Robot,Success (%),Cube grasped (%),Closest approach to cube (cm),Mean deviation from KUKA path (cm),Episode outcomes (of 50)
+KUKA LBR iiwa 7,100,100,0.6,0.0,success 50
+Franka Panda,100,100,0.6,0.0,success 50
+UR5,100,100,0.6,0.0,success 50
+Compact 5-DOF arm,66,72,1.5,0.3,success 33; timeout 17

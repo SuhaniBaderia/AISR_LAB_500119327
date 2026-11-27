@@ -1,0 +1,5 @@
+Unseen robot,Trained on,Joint-space multi policy on a seen robot (%),Joint-space multi policy on unseen (%),Task-space multi policy on unseen (%),Task-space KUKA-only policy (%),Expert (%)
+KUKA LBR iiwa 7,Franka + UR5 + Compact,42,0,100,100,100
+Franka Panda,KUKA + UR5 + Compact,16,0,100,100,100
+UR5,KUKA + Franka + Compact,40,0,100,100,100
+Compact 5-DOF arm,KUKA + Franka + UR5,52,0,72,64,76
