@@ -1,0 +1,7 @@
+Parameter,Value
+Sampling frequency f_s,200 Hz
+Record length T,1.00 s
+Number of samples N,200
+Sampling interval dt = 1/f_s,5.0 ms
+Frequency resolution df = 1/T,1.000 Hz
+Nyquist frequency f_s/2,100 Hz

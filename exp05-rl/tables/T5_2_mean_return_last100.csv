@@ -1,0 +1,4 @@
+epsilon,Mean return last 100 episodes,Std over seeds,Greedy-policy return,Runs with optimal greedy policy
+0.01,-3.285,0.1196870920358583,-3.0,10/10
+0.1,-5.433,0.5333676030656531,-3.0,10/10
+0.3,-11.889,0.6945566931503863,-3.0,10/10

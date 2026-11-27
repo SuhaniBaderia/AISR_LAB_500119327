@@ -1,0 +1,8 @@
+Quantity;Value
+Trials;1000
+Successes (h = 0);142
+Success rate;14.2 % (142/1000), ±2.2 % (95% CI)
+Mean steps when successful;4.15
+Mean steps when stuck;3.09
+Mean final h when stuck;1.46
+Total time / time per climb;1.52 s / 1.52 ms

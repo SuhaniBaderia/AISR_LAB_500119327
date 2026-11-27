@@ -1,0 +1,3 @@
+Algorithm,Nodes expanded,Path length (moves),Max frontier,Time (ms),Path valid
+BFS,658,68,22,1.3169000001198583,True
+DFS,107,96,21,0.2663999998731015,True

@@ -1,0 +1,12 @@
+Parameter;Value
+Grid size;7 x 8
+Start / goal;(0, 0) / (6, 7)
+Rewards;step -1.0, goal +10.0, pit -10.0
+Actions;N, E, S, W (deterministic)
+Learning rate alpha;0.1
+Discount gamma;0.95
+Episodes per run;1000
+Max steps per episode;200
+Exploration epsilon;[0.01, 0.1, 0.3]
+Runs (seeds) per epsilon;10
+Q initialisation;zeros
