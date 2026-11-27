@@ -40,5 +40,4 @@ pip install numpy scipy matplotlib jupyter
 | github.com/reshamrajs/webots-robotics-sim (README.md, GUIDE.md) | Experiment 7 |
 | AISR-Cross-Embodiment-PyBullet (README.md, MANUAL.md) | Experiment 8 |
 | NumPy / SciPy / Matplotlib documentation | All |
-| Claude (Anthropic), AI assistant | Initial drafts of the notebook code for Exp. 1–7; I ran, checked and modified it |
 | `<add any other source>` | |
