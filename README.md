@@ -1,4 +1,4 @@
-# aisr-lab-<SAP ID> — CSAI4014 Algorithms for Intelligent Systems and Robotics, Laboratory
+# AISR_LAB_<500119327> — CSAI4014 Algorithms for Intelligent Systems and Robotics, Laboratory
 
 | | |
 |---|---|
