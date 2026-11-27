@@ -32,12 +32,4 @@ Python 3.10+, NumPy, SciPy, Matplotlib (Exp. 1–7); Webots R2025a (Exp. 7); PyB
 pip install numpy scipy matplotlib jupyter
 ```
 
-## Sources and AI tools used
 
-| Source / tool | Used for |
-|---|---|
-| AISR Laboratory Manual, Chapters 2–7 | Experiments 1–6 (aims, procedure, questions) |
-| github.com/reshamrajs/webots-robotics-sim (README.md, GUIDE.md) | Experiment 7 |
-| AISR-Cross-Embodiment-PyBullet (README.md, MANUAL.md) | Experiment 8 |
-| NumPy / SciPy / Matplotlib documentation | All |
-| `<add any other source>` | |
